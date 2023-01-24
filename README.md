@@ -36,7 +36,7 @@ npm install
 
 ## Live Changes
 
-In order to see the live changes, I recommend to use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension. Once you have a server running, you need to write on your project terminal `npm run watch`. This script is going to refresh the output css file to show the latest changes.
+In order to see the live changes, I recommend to use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension. Once you have a server running, you need to write `npm run watch` on your project terminal. This script is going to refresh the output css file to show the latest changes.
 
 ## Finish For Production
 
